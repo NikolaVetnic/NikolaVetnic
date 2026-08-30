@@ -46,6 +46,12 @@ A working prototype of **verifiable credential issuance and presentation** follo
 
 🔗 [View project](https://github.com/NikolaVetnic/OID4VCI-VP_Prototype)
 
+### Emneflyt
+
+NTNU publishes information about courses in three places. The course catalog is available as websites, the timetables in the timetable system TP, and the grade statistics at HK-dirs DBH. Course flow retrieves from all three, normalizes them into one model, and exposes one API.
+
+🔗 [View project](https://github.com/NikolaVetnic/Emneflyt)
+
 ### ScoreOps
 A toolkit for automating music score production workflows involving Sibelius, REAPER, timing generation, audio processing, and publishing utilities.
 
