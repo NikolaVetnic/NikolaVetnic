@@ -34,6 +34,18 @@ A production-oriented reference platform demonstrating modern backend, cloud-nat
 
 🔗 [View project](https://github.com/NikolaVetnic/Lab/tree/main/Projects/OperationsCenter)
 
+### MiniPlat
+
+A small course platform for a preschool teachers' college: a public catalogue of subjects that anyone can read, and an editor behind a login for the lecturers who own them.
+
+🔗 [View project](https://github.com/NikolaVetnic/MiniPlat)
+
+### OID4VC/VP Prototype
+
+A working prototype of **verifiable credential issuance and presentation** following the OpenID for Verifiable Credential Issuance (OID4VCI) and OpenID for Verifiable Presentations (OID4VP) specifications, using a university diploma as the example credential.
+
+🔗 [View project](https://github.com/NikolaVetnic/OID4VCI-VP_Prototype)
+
 ### ScoreOps
 A toolkit for automating music score production workflows involving Sibelius, REAPER, timing generation, audio processing, and publishing utilities.
 
