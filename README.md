@@ -29,16 +29,12 @@ I enjoy designing reliable backend systems, building production-ready developer 
 
 ## 🚀 Featured Projects
 
-### [🔗](https://github.com/NikolaVetnic/Lab/tree/main/Projects/OperationsCenter) Operations Center (Work in Progress)
-A production-oriented reference platform demonstrating modern backend, cloud-native, and platform engineering practices using ASP.NET Core, Kubernetes, Docker, CI/CD, and OpenTelemetry.
-
-🔗 [View project](https://github.com/NikolaVetnic/Lab/tree/main/Projects/OperationsCenter)
+### Operations Center (Work in Progress)
+A [production-oriented reference platform](https://github.com/NikolaVetnic/Lab/tree/main/Projects/OperationsCenter) demonstrating modern backend, cloud-native, and platform engineering practices using ASP.NET Core, Kubernetes, Docker, CI/CD, and OpenTelemetry.
 
 ### MiniPlat
 
-A small course platform for a preschool teachers' college: a public catalogue of subjects that anyone can read, and an editor behind a login for the lecturers who own them.
-
-🔗 [View project](https://github.com/NikolaVetnic/MiniPlat)
+A [small course platform](https://github.com/NikolaVetnic/MiniPlat) for a preschool teachers' college: a public catalogue of subjects that anyone can read, and an editor behind a login for the lecturers who own them.
 
 ### OID4VC/VP Prototype
 
