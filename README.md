@@ -29,7 +29,7 @@ I enjoy designing reliable backend systems, building production-ready developer 
 
 ## 🚀 Featured Projects
 
-### [Operations Center](https://github.com/NikolaVetnic/Lab/tree/main/Projects/OperationsCenter) (Work in Progress)
+### [🔗](https://github.com/NikolaVetnic/Lab/tree/main/Projects/OperationsCenter) Operations Center (Work in Progress)
 A production-oriented reference platform demonstrating modern backend, cloud-native, and platform engineering practices using ASP.NET Core, Kubernetes, Docker, CI/CD, and OpenTelemetry.
 
 🔗 [View project](https://github.com/NikolaVetnic/Lab/tree/main/Projects/OperationsCenter)
